@@ -1,4 +1,4 @@
-import { THREE } from "https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"
+import { THREE } from "three"
 import { EffectComposer } from "https://unpkg.com/three@0.120.0/examples/jsm/postprocessing/EffectComposer.js";
 import { RenderPass } from "https://unpkg.com/three@0.120.0/examples/jsm/postprocessing/RenderPass.js";
 import { UnrealBloomPass } from "https://unpkg.com/three@0.120.0/examples/jsm/postprocessing/UnrealBloomPass.js";
